@@ -471,7 +471,18 @@ img.portrait {
 .tipsy-south { background-position: bottom center; margin-bottom:20px; }
 .tipsy-east { background-position: right center; }
 .tipsy-west { background-position: left center; }
-
+.social-icon {
+	width: 28px;
+}
+.social-vk {
+	margin-top: -3px;
+}
+.social-in {
+	margin-top: -1px;
+	border-radius: 2px;
+	width: 24px;
+	margin-left: 3px;
+}
 
 /* COLORBOX */
 /* ----------------------------------------- */
